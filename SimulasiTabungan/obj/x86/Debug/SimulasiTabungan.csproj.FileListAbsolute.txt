@@ -8,3 +8,5 @@ C:\Users\umbel\Desktop\New folder\New folder\SimulasiTabungan\SimulasiTabungan\o
 C:\Users\umbel\Desktop\New folder\New folder\SimulasiTabungan\SimulasiTabungan\bin\Debug\SimulasiTabungan.exe
 C:\Users\umbel\Desktop\New folder\New folder\SimulasiTabungan\SimulasiTabungan\bin\Debug\SimulasiTabungan.pdb
 C:\Users\umbel\Desktop\New folder\New folder\SimulasiTabungan\SimulasiTabungan\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\umbel\github\Simulasi-Tabungan\SimulasiTabungan\obj\x86\Debug\SimulasiTabungan.exe
+C:\Users\umbel\github\Simulasi-Tabungan\SimulasiTabungan\obj\x86\Debug\SimulasiTabungan.pdb
