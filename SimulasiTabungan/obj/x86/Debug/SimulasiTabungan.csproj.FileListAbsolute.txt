@@ -1,0 +1,10 @@
+C:\Users\umbel\AppData\Local\Temporary Projects\SimulasiTabungan\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\umbel\AppData\Local\Temporary Projects\SimulasiTabungan\bin\Debug\SimulasiTabungan.exe
+C:\Users\umbel\AppData\Local\Temporary Projects\SimulasiTabungan\bin\Debug\SimulasiTabungan.pdb
+C:\Users\umbel\AppData\Local\Temporary Projects\SimulasiTabungan\obj\x86\Debug\SimulasiTabungan.exe
+C:\Users\umbel\AppData\Local\Temporary Projects\SimulasiTabungan\obj\x86\Debug\SimulasiTabungan.pdb
+C:\Users\umbel\Desktop\New folder\New folder\SimulasiTabungan\SimulasiTabungan\obj\x86\Debug\SimulasiTabungan.exe
+C:\Users\umbel\Desktop\New folder\New folder\SimulasiTabungan\SimulasiTabungan\obj\x86\Debug\SimulasiTabungan.pdb
+C:\Users\umbel\Desktop\New folder\New folder\SimulasiTabungan\SimulasiTabungan\bin\Debug\SimulasiTabungan.exe
+C:\Users\umbel\Desktop\New folder\New folder\SimulasiTabungan\SimulasiTabungan\bin\Debug\SimulasiTabungan.pdb
+C:\Users\umbel\Desktop\New folder\New folder\SimulasiTabungan\SimulasiTabungan\obj\x86\Debug\ResolveAssemblyReference.cache
